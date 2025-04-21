@@ -20,14 +20,8 @@ Here are some ideas to get you started: -->
 <img src = "https://img.shields.io/badge/-JavaScript-3776AB?logo=javascript&logoColor=fce803">&nbsp;<br>
 <img src = "https://img.shields.io/badge/-TypeScript-000000?logo=typescript&logoColor=007acc">&nbsp;
 <img src = "https://img.shields.io/badge/-REACT-000000?logo=react&logoColor=#1572B6">&nbsp;
-<img src = "https://img.shields.io/badge/-NODE Js.-3776AB?logo=nodedotjs&logoColor=ffffff">&nbsp;
 </p>
-<h3><b>Databases</b></h3>
-<p>
-<img src="https://img.shields.io/badge/MySQL-007acc?style=for-the-badge&logo=mysql&logoColor=ffffff"/>&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgreSQL&logoColor=white" />&nbsp;
-</p>
+
 
 <h3><b>Versioning Tools</b></h3>
  <p><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Git-cb4b16?style=for-the-badge&logo=git&logoColor=white" /></p>
