@@ -4,9 +4,7 @@
 Here are some ideas to get you started: -->
 
 
-- 📫 How to reach me: <a href = "https://www.facebook.com/aarya.dangol.7" target = "_blank">
-<img src = "https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=fff"></a>&nbsp;
-<a target = "_blank" href = "https://www.instagram.com/aaryae/"><img src = "https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff"></a>&nbsp;
+- 📫 How to reach me: 
 <a target = "_blank" href = "https://www.linkedin.com/in/aarya-dangol-658871273//"><img src = "https://img.shields.io/badge/-Linkedln-0A66C2?logo=linkedLn&logoColor=fff"></a>
 - <a target="_blank" href = "https://aaryadangol.com.np">CLICK</a>&nbsp;To visit my website.
 <!-- - 😄 Pronouns: ...
